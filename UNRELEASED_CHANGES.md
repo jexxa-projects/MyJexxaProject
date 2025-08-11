@@ -4,6 +4,7 @@
 
 - *(CI)* Bump orhun/git-cliff-action from 3 to 4 - ([7d41fa3](https://github.com/jexxa-projects/MyJexxaProject/commit/7d41fa39befe02cff4d3a816665bf2ea63fe7630))
 - *(CI)* Bump stefanzweifel/git-auto-commit-action from 5 to 6 - ([6074f4b](https://github.com/jexxa-projects/MyJexxaProject/commit/6074f4b8d2701dec05fe68da4072d005974fc6e6))
+- *(CI)* Bump actions/checkout from 4 to 5 - ([8d2d6a9](https://github.com/jexxa-projects/MyJexxaProject/commit/8d2d6a9bd0dfe32def0037ce6146f6b1447bb770))
 - *(java)* Bump jexxa.release.version from 8.0.0 to 8.0.3 - ([37bceb4](https://github.com/jexxa-projects/MyJexxaProject/commit/37bceb4c421f6822a071f9f2abab749e6c779585))
 - *(java)* Bump org.apache.maven.plugins:maven-enforcer-plugin - ([02fe062](https://github.com/jexxa-projects/MyJexxaProject/commit/02fe062d820150ea184f9df25de97984c781ae19))
 - *(java)* Bump org.apache.maven.plugins:maven-shade-plugin - ([3a1c9c2](https://github.com/jexxa-projects/MyJexxaProject/commit/3a1c9c28110a3c7c1d065fb6ae3d3b6a9e13ff4e))
